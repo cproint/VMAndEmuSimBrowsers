@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="70289" started-at="2020-02-25T01:44:57Z" finished-at="2020-02-25T01:46:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="70289" started-at="2020-02-25T01:44:57Z" finished-at="2020-02-25T01:46:07Z">
+      <class name="com.yourcompany.Tests.EmulatorBrowserPageTitleTest">
+        <test-method status="PASS" signature="verifyTitleTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.reflect.Method)[pri:0, instance:com.yourcompany.Tests.EmulatorBrowserPageTitleTest@e45f292]" name="verifyTitleTest" duration-ms="34491" started-at="2020-02-24T17:44:57Z" data-provider="hardCodedBrowsers" finished-at="2020-02-24T17:45:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[10.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Android GoogleAPI Emulator]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[public void com.yourcompany.Tests.EmulatorBrowserPageTitleTest.verifyTitleTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.reflect.Method) throws java.net.MalformedURLException,org.openqa.selenium.InvalidElementStateException,java.rmi.UnexpectedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitleTest -->
+        <test-method status="PASS" signature="verifyTitleTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.reflect.Method)[pri:0, instance:com.yourcompany.Tests.EmulatorBrowserPageTitleTest@e45f292]" name="verifyTitleTest" duration-ms="68734" started-at="2020-02-24T17:44:57Z" data-provider="hardCodedBrowsers" finished-at="2020-02-24T17:46:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Safari]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[13.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[iPhone XS Max Simulator]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[public void com.yourcompany.Tests.EmulatorBrowserPageTitleTest.verifyTitleTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.reflect.Method) throws java.net.MalformedURLException,org.openqa.selenium.InvalidElementStateException,java.rmi.UnexpectedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitleTest -->
+        <test-method status="PASS" signature="verifyTitleTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.reflect.Method)[pri:0, instance:com.yourcompany.Tests.EmulatorBrowserPageTitleTest@e45f292]" name="verifyTitleTest" duration-ms="6243" started-at="2020-02-24T17:44:57Z" data-provider="hardCodedBrowsers" finished-at="2020-02-24T17:45:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[latest]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[OS X 10.10]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[public void com.yourcompany.Tests.EmulatorBrowserPageTitleTest.verifyTitleTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.reflect.Method) throws java.net.MalformedURLException,org.openqa.selenium.InvalidElementStateException,java.rmi.UnexpectedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitleTest -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.yourcompany.Tests.EmulatorBrowserPageTitleTest@e45f292]" name="tearDown" is-config="true" duration-ms="640" started-at="2020-02-24T17:45:03Z" finished-at="2020-02-24T17:45:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyTitleTest status=SUCCESS method=EmulatorBrowserPageTitleTest.verifyTitleTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.reflect.Method)[pri:0, instance:com.yourcompany.Tests.EmulatorBrowserPageTitleTest@e45f292] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.yourcompany.Tests.EmulatorBrowserPageTitleTest@e45f292]" name="tearDown" is-config="true" duration-ms="720" started-at="2020-02-24T17:45:31Z" finished-at="2020-02-24T17:45:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyTitleTest status=SUCCESS method=EmulatorBrowserPageTitleTest.verifyTitleTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.reflect.Method)[pri:0, instance:com.yourcompany.Tests.EmulatorBrowserPageTitleTest@e45f292] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.yourcompany.Tests.EmulatorBrowserPageTitleTest@e45f292]" name="tearDown" is-config="true" duration-ms="1536" started-at="2020-02-24T17:46:06Z" finished-at="2020-02-24T17:46:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyTitleTest status=SUCCESS method=EmulatorBrowserPageTitleTest.verifyTitleTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.reflect.Method)[pri:0, instance:com.yourcompany.Tests.EmulatorBrowserPageTitleTest@e45f292] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.yourcompany.Tests.EmulatorBrowserPageTitleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
